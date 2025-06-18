@@ -2,17 +2,19 @@
 
 ## Table of Contents
 
-- [Executive Summary](#executive-summary)
-- [Project Objective](#project-objective)
-- [Methodology Overview](#methodology-overview)
-- [Tools and Technologies](#tools-and-technologies)
-- [Project Overview](#project-overview)
-  - [Working Structured Table Preview](#working-structured-table-preview)
-  - [Visual Report Preview](#visual-report-preview)
-- [Reporting and Communication](#reporting-and-communication)
-  - [Key Findings](#key-findings)
-  - [Recommendations](#recommendations)
-- [Repository Contents](#repository-contents)
+- [Executive Summary](#executive-summary)  
+- [Project Objective](#project-objective)  
+- [Methodology Overview](#methodology-overview)  
+- [Tools and Technologies](#tools-and-technologies)  
+- [Project Overview](#project-overview)  
+  - [ABC Analysis Preview in Power Query](#abc-analysis-preview-in-power-query)  
+  - [ABC Analysis Preview](#abc-analysis-preview)  
+  - [Working for Data Visualization](#working-for-data-visualization)  
+  - [Data Visualization Report Preview](#data-visualization-report-preview)  
+- [Reporting and Communication](#reporting-and-communication)  
+  - [Key Findings](#key-findings)  
+  - [Recommendations](#recommendations)  
+- [Repository Contents](#repository-contents)  
 - [How to Use](#how-to-use)
 
 ## Executive Summary
