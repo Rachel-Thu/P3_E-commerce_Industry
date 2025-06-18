@@ -71,18 +71,21 @@ This project follows a structured, stepwise approach to deliver accurate and act
 
 This section provides a visual walkthrough of key project components—structured tables, pivot analysis, and final visual reports—highlighting the transformation from raw data to actionable business insights.
 
-### ABC Analysis Preview in Power
+### ABC Analysis Preview in Power Query
 
-
+![ABC Analysis in Power Queries](https://github.com/user-attachments/assets/6b88ff07-cfaf-4246-aacc-8594a48bc630)
 
 ### ABC Analysis Preview  
 
-![Report ](https://github.com/user-attachments/assets/9dff6741-d23b-44a2-95aa-ba97d89278fc)
+![ABC Analysis Preview](https://github.com/user-attachments/assets/9d1d5105-7b08-4257-a028-e01f7784b7e5)
 
 ### Working for Data Visualization  
 
+![Working for Data Visualization](https://github.com/user-attachments/assets/915445ea-25fd-411e-a0ed-b02b78229375)
 
 ### Data Visualization Report Preview  
+
+![Data Visualization Preview](https://github.com/user-attachments/assets/67f82c2b-566a-4d51-be8d-5dc21fa40e5a)
 
 ---
 
