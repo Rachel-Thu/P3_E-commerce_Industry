@@ -15,7 +15,6 @@
   - [Key Findings](#key-findings)  
   - [Recommendations](#recommendations)  
 - [Repository Contents](#repository-contents)  
-- [How to Use](#how-to-use)
 
 ## Executive Summary
 
@@ -30,6 +29,8 @@ This project enables stakeholders to:
 - Focus on high-impact SKUs to drive revenue growth
 - Streamline inventory management to reduce overstock and stockouts
 - Improve overall profitability through targeted data-driven strategies
+
+---
 
 ## Project Objective
 
@@ -59,7 +60,6 @@ This project follows a structured, stepwise approach to deliver accurate and act
 ---
 
 ## Tools and Technologies
-
 
 - **Excel:** Data analysis, pivot tables, charts  
 - **Power Query:** Data import and cleaning & transformation 
@@ -107,6 +107,8 @@ Top-performing products generate 469,161 in revenue, representing over half (53%
 - High-performing products such as Headphones, Biographies, and Shampoo can serve as anchors for cross-selling complementary items, increasing the overall basket size.
 - Finally, strong performance in the Electronics and Beauty categories suggests opportunities for category expansion. Introducing new products, offering targeted promotions (e.g., category discounts or free shipping), and implementing loyalty programs can help capture greater market share and encourage repeat purchases.
 
+---
+
 ## Repository Contents
 
 - Cleaned and structured datasets ready for analysis
@@ -114,14 +116,3 @@ Top-performing products generate 469,161 in revenue, representing over half (53%
 - Data processed using Power Query and Power Pivot for efficient modeling  
 - Interactive pivot tables and visual charts showcasing sales and segmentation trends
 - Key insights with actionable recommendations for sales, inventory, and product strategy
-
----
-
-## How to Use
-
-1. Download or clone the repository to your local machine
-2. Open the P3_ProjectFile(May).xlsx workbook in Excel
-3. Review cleaned data sheets to understand the datasets.
-4. Follow analysis tabs (KP01 to KP06) for the workflow.
-5. Explore pivot tables and charts for insights.
-6. Check Findings & Recommendations for key takeaways.
